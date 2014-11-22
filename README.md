@@ -3,6 +3,10 @@ Daytime plugin for Minetest.
 Minetest forum topic: https://forum.minetest.net/viewtopic.php?f=9&t=10614
 
 Changelog:
+
+v0.2
+  - added privilege "changetime", needed to use all currently available commands
+
 v0.1
   - first version
   - /day - Changes time to day
